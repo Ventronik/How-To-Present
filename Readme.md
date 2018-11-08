@@ -71,7 +71,7 @@ Give a quick Intro!
 3. Employers
 4. Students
 5. Congress
-![Alt](https://i.imgur.com/07F46Tl.jpg "Title")
+![Alt](/https://i.imgur.com/07F46Tl.jpg "Title")
 
 ## What
 1. What you present will always be up to you.
@@ -93,8 +93,22 @@ Larger monthly meetups typically exist for the sake of attendees learning new th
 
 ## How
 1. Public Speaking Basics
+2. Technology tools
+* Powerpoint, Slides.com, Adobe Spark
+* Unsplash.com
+* MarvellApp
+3.
 
 ## Why
+
+## Presenting with Slides
+1. Do Not clutter the slide, 6 bullet points is enough
+2. Provide note material for people either blank paper, or MORE detailed information than what is on the Slides
+3. Transitions add next to no benefit
+4. Don't think too much about colors.
+  * If you pick a color stick with it
+  * Normally Black or White text is fine, If you are over a multicolor image use white font with a black border
+  ![Alt](https://i.imgur.com/pQjoQ.png "Text Color")
 
 
 ## Upcoming Events
@@ -143,3 +157,10 @@ Please feel free to reach out to Sage Elliott with any questions about Galvanize
 <!-- [Gavin Look](https://www.linkedin.com/in/gavinlook/) is a full stack web developer that graduated from the galvanize web developer program speak to me after the presentation to talk about my expereince. -->
 
 Thank you!
+
+#### Photo Credits
+- Girl Wearing VR goggle Photo by Samuel Zeller on Unsplash
+- black flat screen computer monitor on brown wooden table Photo by Annie Spratt on Unsplash
+- flat view of cameras beside computer tablet and smartphone Photo by Brooke Lark on Unsplash
+-
+-
